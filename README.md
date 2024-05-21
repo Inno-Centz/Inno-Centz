@@ -1,13 +1,8 @@
 ## Hello, folks! 👋 I'm Innocent 👨‍💻📊 
 
-![Banner](https://www.canva.com/design/DAGF2mdSRKE/nOZT-1CfddCfrFP_B4KcwA/view?utm_content=DAGF2mdSRKE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-```
 
 
-
-
-
-Here are some ideas to get you started:
+About Me
 
 - 🔭 I’m currently upskilling on how to be a proficient data analyst with ALX ''The Experience''
 
@@ -16,5 +11,26 @@ Here are some ideas to get you started:
 - 👯 I’m always looking to collaborate on data analysis projects where I can showcase my expertise in transforming data into actionable insights.
 
 - ⚡ Fun fact: Aside from data analysis, you will find me serving aces on the tennis court or defending opponents on the football pitch.
+
+
+
+Skills 🛠
+
+- Programmatic Thinking 💻
+- Problem Solving 💻
+- Data Visualization 📈
+- Analytical Programming 📉
+
+
+
+Tools
+
+- SQL ⛓⚙
+- Spreadsheets (Excel, Google Sheets) 🔎📊
+- Power BI 📊📉📈
+
+
+
+Let's Connect:
 
 - 📫 How to reach me: iaghidi@yahoo.com
