@@ -33,4 +33,4 @@
 
 **Let's Connect**:
 
-- 📫 How to reach me: iaghidi@yahoo.com
+- 📫 How to reach me: i.aghidi01@gmail.com
